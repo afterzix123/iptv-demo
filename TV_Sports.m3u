@@ -1,0 +1,40 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="beinsports1.id" tvg-name="BeIN Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/BeIN_Sports_Logo.png" group-title="Sports",BeIN Sports 1
+http://example.com/beinsports1.m3u8
+
+#EXTINF:-1 tvg-id="beinsports2.id" tvg-name="BeIN Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/BeIN_Sports_Logo.png" group-title="Sports",BeIN Sports 2
+http://example.com/beinsports2.m3u8
+
+#EXTINF:-1 tvg-id="beinsports3.id" tvg-name="BeIN Sports 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/BeIN_Sports_Logo.png" group-title="Sports",BeIN Sports 3
+http://example.com/beinsports3.m3u8
+
+#EXTINF:-1 tvg-id="espn.us" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg" group-title="Sports",ESPN
+http://example.com/espn.m3u8
+
+#EXTINF:-1 tvg-id="foxsports.us" tvg-name="Fox Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Fox_Sports_logo.png" group-title="Sports",Fox Sports
+http://example.com/foxsports.m3u8
+
+#EXTINF:-1 tvg-id="eurosport.eu" tvg-name="Eurosport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/Eurosport_Logo_2015.png" group-title="Sports",Eurosport
+http://example.com/eurosport.m3u8
+
+#EXTINF:-1 tvg-id="skysportsfootball.uk" tvg-name="Sky Sports Football" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e3/Sky_Sports_Football.png" group-title="Sports",Sky Sports Football
+http://example.com/skysportsfootball.m3u8
+
+#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="Sky Sports F1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Sky_Sports_F1.png" group-title="Sports",Sky Sports F1
+http://example.com/skysportsf1.m3u8
+
+#EXTINF:-1 tvg-id="nbatv.us" tvg-name="NBA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/67/NBA_TV.png" group-title="Sports",NBA TV
+http://example.com/nbatv.m3u8
+
+#EXTINF:-1 tvg-id="wwe.us" tvg-name="WWE Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WWE_Network_logo.svg" group-title="Sports",WWE Network
+http://example.com/wwe.m3u8
+
+#EXTINF:-1 tvg-id="fightsports.us" tvg-name="Fight Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Fight_Sports_logo.png" group-title="Sports",Fight Sports
+http://example.com/fightsports.m3u8
+
+#EXTINF:-1 tvg-id="golfchannel.us" tvg-name="Golf Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/Golf_Channel_Logo.png" group-title="Sports",Golf Channel
+http://example.com/golfchannel.m3u8
+
+#EXTINF:-1 tvg-id="motorsporttv.us" tvg-name="Motorsport TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/Motorsport.tv_logo.png" group-title="Sports",Motorsport TV
+http://example.com/motorsporttv.m3u8

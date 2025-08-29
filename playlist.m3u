@@ -1,7 +1,61 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="demo1" tvg-name="Demo Channel 1" catchup="shift" catchup-days="3" catchup-source="http://example.com/catchup/$START$-$END$.ts",Demo Channel 1
-http://example.com/live/demo1/index.m3u8
+# Kategori Nasional
+#EXTINF:-1 group-title="Nasional",RCTI
+http://example.com/rcti.m3u8
+#EXTINF:-1 group-title="Nasional",SCTV
+http://example.com/sctv.m3u8
 
-#EXTINF:-1 tvg-id="demo2" tvg-name="Demo Channel 2" catchup="append" catchup-days="7" catchup-source="http://example.com/catchup/demo2/$START$.mp4",Demo Channel 2
-http://example.com/live/demo2/index.m3u8
+# Kategori Movie
+#EXTINF:-1 group-title="Movie",HBO
+http://example.com/hbo.m3u8
+#EXTINF:-1 group-title="Movie",CinemaWorld
+http://example.com/cinemaworld.m3u8
+
+# Kategori Sport
+#EXTINF:-1 group-title="Sport",ESPN
+http://example.com/espn.m3u8
+#EXTINF:-1 group-title="Sport",beIN Sports
+http://example.com/bein.m3u8
+
+# Kategori News
+#EXTINF:-1 group-title="News",CNN
+http://example.com/cnn.m3u8
+#EXTINF:-1 group-title="News",BBC World
+http://example.com/bbc.m3u8
+
+# Kategori Kids
+#EXTINF:-1 group-title="Kids",Cartoon Network
+http://example.com/cartoon.m3u8
+#EXTINF:-1 group-title="Kids",Disney Channel
+http://example.com/disney.m3u8
+
+# Kategori Music
+#EXTINF:-1 group-title="Music",MTV
+http://example.com/mtv.m3u8
+#EXTINF:-1 group-title="Music",Channel V
+http://example.com/channelv.m3u8
+
+# Kategori Lifestyle
+#EXTINF:-1 group-title="Lifestyle",TLC
+http://example.com/tlc.m3u8
+#EXTINF:-1 group-title="Lifestyle",HGTV
+http://example.com/hgtv.m3u8
+
+# Kategori Documentary
+#EXTINF:-1 group-title="Documentary",National Geographic
+http://example.com/natgeo.m3u8
+#EXTINF:-1 group-title="Documentary",Discovery Channel
+http://example.com/discovery.m3u8
+
+# Kategori International
+#EXTINF:-1 group-title="International",TV5 Monde
+http://example.com/tv5.m3u8
+#EXTINF:-1 group-title="International",DW
+http://example.com/dw.m3u8
+
+# Kategori TV Daerah
+#EXTINF:-1 group-title="TV Daerah",TVRI Aceh
+http://example.com/tvriaceh.m3u8
+#EXTINF:-1 group-title="TV Daerah",Jawa Pos TV
+http://example.com/jawapostv.m3u8

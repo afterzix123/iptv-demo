@@ -1,0 +1,31 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="cnn.int" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/CNN.svg" group-title="News",CNN International
+http://example.com/cnn.m3u8
+
+#EXTINF:-1 tvg-id="bbcworld" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/BBC_World_News_2022.svg" group-title="News",BBC World News
+http://example.com/bbcworld.m3u8
+
+#EXTINF:-1 tvg-id="aljazeera.en" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Aljazeera_eng.svg" group-title="News",Al Jazeera English
+http://example.com/aljazeera.m3u8
+
+#EXTINF:-1 tvg-id="cnbc.int" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/CNBC_logo.svg" group-title="News",CNBC
+http://example.com/cnbc.m3u8
+
+#EXTINF:-1 tvg-id="bloomberg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Bloomberg_logo.svg" group-title="News",Bloomberg TV
+http://example.com/bloomberg.m3u8
+
+#EXTINF:-1 tvg-id="france24.en" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/France24.png" group-title="News",France 24 English
+http://example.com/france24.m3u8
+
+#EXTINF:-1 tvg-id="dwnews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/DW_News_logo_2019.svg" group-title="News",DW News
+http://example.com/dwnews.m3u8
+
+#EXTINF:-1 tvg-id="nhkworld" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/NHK_logo_2020.svg" group-title="News",NHK World Japan
+http://example.com/nhkworld.m3u8
+
+#EXTINF:-1 tvg-id="skynews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Sky_News_logo.svg" group-title="News",Sky News
+http://example.com/skynews.m3u8
+
+#EXTINF:-1 tvg-id="cgtn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/CGTN_logo.svg" group-title="News",CGTN
+http://example.com/cgtn.m3u8

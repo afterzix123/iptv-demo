@@ -1,0 +1,26 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Indonesia Nasional",RCTI
+http://example.com/rcti.m3u8
+#EXTINF:-1 group-title="Indonesia Nasional",SCTV
+http://example.com/sctv.m3u8
+#EXTINF:-1 group-title="Indonesia Nasional",Indosiar
+http://example.com/indosiar.m3u8
+#EXTINF:-1 group-title="Indonesia Nasional",ANTV
+http://example.com/antv.m3u8
+#EXTINF:-1 group-title="Indonesia Nasional",TransTV
+http://example.com/transtv.m3u8
+#EXTINF:-1 group-title="Indonesia Nasional",Trans7
+http://example.com/trans7.m3u8
+#EXTINF:-1 group-title="Indonesia Nasional",MNCTV
+http://example.com/mnctv.m3u8
+#EXTINF:-1 group-title="Indonesia Nasional",GTV
+http://example.com/gtv.m3u8
+#EXTINF:-1 group-title="Indonesia Nasional",TV One
+http://example.com/tvone.m3u8
+#EXTINF:-1 group-title="Indonesia Nasional",Metro TV
+http://example.com/metrotv.m3u8
+#EXTINF:-1 group-title="Indonesia Nasional",Kompas TV
+http://example.com/kompastv.m3u8
+#EXTINF:-1 group-title="Indonesia Nasional",iNews
+http://example.com/inews.m3u8

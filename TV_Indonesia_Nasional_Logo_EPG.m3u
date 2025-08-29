@@ -1,0 +1,40 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/4/4c/RCTI_logo.svg/320px-RCTI_logo.svg.png" group-title="Indonesia Nasional",RCTI
+http://example.com/rcti.m3u8
+
+#EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/SCTV_logo_2013.svg/320px-SCTV_logo_2013.svg.png" group-title="Indonesia Nasional",SCTV
+http://example.com/sctv.m3u8
+
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/19/Indosiar_Logo_2015.svg/320px-Indosiar_Logo_2015.svg.png" group-title="Indonesia Nasional",Indosiar
+http://example.com/indosiar.m3u8
+
+#EXTINF:-1 tvg-id="ANTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/ANTV_logo.svg/320px-ANTV_logo.svg.png" group-title="Indonesia Nasional",ANTV
+http://example.com/antv.m3u8
+
+#EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5f/Trans_TV.svg/320px-Trans_TV.svg.png" group-title="Indonesia Nasional",Trans TV
+http://example.com/transtv.m3u8
+
+#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/b/b3/Trans7_logo.svg/320px-Trans7_logo.svg.png" group-title="Indonesia Nasional",Trans7
+http://example.com/trans7.m3u8
+
+#EXTINF:-1 tvg-id="MNCTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/66/MNCTV_logo.svg/320px-MNCTV_logo.svg.png" group-title="Indonesia Nasional",MNCTV
+http://example.com/mnctv.m3u8
+
+#EXTINF:-1 tvg-id="GTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/GTV_logo.svg/320px-GTV_logo.svg.png" group-title="Indonesia Nasional",GTV
+http://example.com/gtv.m3u8
+
+#EXTINF:-1 tvg-id="TVOne.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/TVOne_logo.svg/320px-TVOne_logo.svg.png" group-title="Indonesia Nasional",TV One
+http://example.com/tvone.m3u8
+
+#EXTINF:-1 tvg-id="MetroTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/MetroTV_logo.svg/320px-MetroTV_logo.svg.png" group-title="Indonesia Nasional",Metro TV
+http://example.com/metrotv.m3u8
+
+#EXTINF:-1 tvg-id="KompasTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/KompasTV_logo.svg/320px-KompasTV_logo.svg.png" group-title="Indonesia Nasional",Kompas TV
+http://example.com/kompastv.m3u8
+
+#EXTINF:-1 tvg-id="iNews.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/INews.png/320px-INews.png" group-title="Indonesia Nasional",iNews
+http://example.com/inews.m3u8
+
+#EXTINF:-1 tvg-id="TVRI.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/TVRI_logo_2019.svg/320px-TVRI_logo_2019.svg.png" group-title="Indonesia Nasional",TVRI
+http://example.com/tvri.m3u8
