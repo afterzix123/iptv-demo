@@ -1,0 +1,7 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="demo1" tvg-name="Demo Channel 1" catchup="shift" catchup-days="3" catchup-source="http://example.com/catchup/$START$-$END$.ts",Demo Channel 1
+http://example.com/live/demo1/index.m3u8
+
+#EXTINF:-1 tvg-id="demo2" tvg-name="Demo Channel 2" catchup="append" catchup-days="7" catchup-source="http://example.com/catchup/demo2/$START$.mp4",Demo Channel 2
+http://example.com/live/demo2/index.m3u8

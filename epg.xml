@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="demo-iptv">
+  <channel id="demo1">
+    <display-name>Demo Channel 1</display-name>
+  </channel>
+  <channel id="demo2">
+    <display-name>Demo Channel 2</display-name>
+  </channel>
+
+  <programme start="20250828060000 +0000" stop="20250828070000 +0000" channel="demo1">
+    <title>News Morning</title>
+    <desc>Latest updates from around the world.</desc>
+  </programme>
+  <programme start="20250828070000 +0000" stop="20250828080000 +0000" channel="demo1">
+    <title>Sports Hour</title>
+    <desc>Highlights and live coverage.</desc>
+  </programme>
+
+  <programme start="20250828060000 +0000" stop="20250828070000 +0000" channel="demo2">
+    <title>Kids Show</title>
+    <desc>Cartoons and fun for kids.</desc>
+  </programme>
+</tv>
